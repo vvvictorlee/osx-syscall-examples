@@ -1,0 +1,4 @@
+Demonstration of BSD system calls on Macintosh.
+
+For a list of syscalls, see /usr/include/sys/syscall.h and
+in detail here http://dyjakan.sigsegv.pl/osx-bsd-syscalls/
